@@ -1,0 +1,2 @@
+1. autocmds.lua 中注释 有关 utils 的 im-select 的代码，对于 Linux无用
+2. 对于 写代码 来说，主要就是三部分 语法错误检测（LSP）；代码补全和UI；代码格式化
