@@ -1,0 +1,45 @@
+├── LICENSE
+├── README.md
+├── init.lua
+└── lua
+    ├── autocmds.lua
+    ├── basic.lua
+    ├── colorscheme.lua
+    ├── keybindings.lua
+    ├── lsp
+    │   ├── cmp.lua
+    │   ├── config
+    │   │   ├── bash.lua
+    │   │   ├── emmet.lua
+    │   │   ├── html.lua
+    │   │   ├── json.lua
+    │   │   ├── lua.lua
+    │   │   ├── markdown.lua
+    │   │   ├── pyright.lua
+    │   │   ├── rust.lua
+    │   │   └── ts.lua
+    │   ├── formatter.lua
+    │   ├── null-ls.lua
+    │   ├── setup.lua
+    │   └── ui.lua
+    ├── plugin-config
+    │   ├── bufferline.lua
+    │   ├── comment.lua
+    │   ├── dashboard.lua
+    │   ├── gitsigns.lua
+    │   ├── indent-blankline.lua
+    │   ├── lualine.lua
+    │   ├── nvim-autopairs.lua
+    │   ├── nvim-tree.lua
+    │   ├── nvim-treesitter.lua
+    │   ├── project.lua
+    │   ├── surround.lua
+    │   ├── telescope.lua
+    │   ├── toggleterm.lua
+    │   ├── vimspector.lua
+    │   └── which-key.lua
+    ├── plugins.lua
+    └── utils
+        ├── fix-yank.lua
+        ├── global.lua
+        └── im-select.lua
